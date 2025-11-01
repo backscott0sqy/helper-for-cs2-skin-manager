@@ -1,0 +1,1 @@
+# helper-for-cs2-skin-manager
